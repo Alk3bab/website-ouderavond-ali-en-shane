@@ -1,0 +1,83 @@
+.navbar{
+    text-align: center;
+    overflow: hidden;
+    background-color: rgba(0, 43, 14, 0.438);
+    color: black;
+    padding: 20px;
+    padding-bottom: 20px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-inline: -0.2cm;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.navbar a{
+color: white;
+text-align: center;
+}
+
+.navbar a:hover{
+background-color: rgb(0,221 ,0 );
+color: black;
+}
+
+body{
+    background-color: green;
+}
+h1{
+    font-size: 300%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: rgb(19, 61, 0);
+    text-align: center;
+}
+
+.fotologo{
+height: 45px;
+width: 145px;
+margin-bottom: -0.4cm;
+margin-top: -0.3cm;
+margin-left: -0.3cm;
+}
+.googlemaps{
+    margin-top: 30px;
+}
+
+.tcrfoto{
+    width:  800px;
+    display: flex;
+}
+
+.B{
+    margin-left: 395px;
+    margin-top: 20px ;
+    width: 1000px;
+    border: 5px solid white;
+    padding: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(106, 219, 0);
+    background-color: rgba(128, 128, 128, 0.445);
+  }
+  .H{
+    margin-left: 430px;
+    margin-top: 20px ;
+    width: 1000px;
+    border: 5px solid white;
+    padding: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(106, 219, 0);
+    background-color: rgba(128, 128, 128, 0.445);
+    text-align: center;
+  }
+
+.C{
+    margin-left: 395px;
+    margin-top: 20px ;
+    width: 1000px;
+    border: 5px solid white;
+    padding: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(106, 219, 0);
+    background-color: rgba(128, 128, 128, 0.445);
+  }
